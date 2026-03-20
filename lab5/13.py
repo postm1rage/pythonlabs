@@ -1,0 +1,1 @@
+print(any('0' in input().split() for _ in range(10)))
